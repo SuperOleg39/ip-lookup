@@ -1,0 +1,13 @@
+{
+  "name": "ip-lookup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "geolite2": "^3.0.0",
+    "maxmind": "^4.1.1"
+  }
+}
